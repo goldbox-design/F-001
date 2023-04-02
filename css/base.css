@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: Roboto Condensed, Noto Sans JP, sans-serif;
+    color: #3A3A3A;
+}
